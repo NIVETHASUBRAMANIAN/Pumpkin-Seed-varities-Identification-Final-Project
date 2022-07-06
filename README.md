@@ -82,6 +82,4 @@ Fetching the details to identify the varities of seeds.
     <td>0.7984</td>
    </tr>
  </table>
- <body>
- <ul>
- <li><b>Random Forest Classifier</b> is the best from among the models with an accuracy percentage of <b>100%</b>
+ <b>Random Forest Classifier</b> is the best from among the models with an accuracy percentage of <b>100%</b>
