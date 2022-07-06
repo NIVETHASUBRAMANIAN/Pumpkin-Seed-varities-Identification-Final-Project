@@ -84,3 +84,4 @@ Fetching the details to identify the varities of seeds.
    </tr>
  </table>
  <b>Random Forest Classifier</b> is the best from among the models with an accuracy percentage of <b>100%</b>
+  </html>
