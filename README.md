@@ -72,7 +72,7 @@ Fetching the details to identify the varities of seeds.
    </tr>
   <tr>
     <td><u>Decision Tree Classifier<u></td>
-    <td>0.8512</td>
+    <td>0.84</td>
    </tr>
   <tr>
     <td><u>Random Forest Classifier<u></td>
